@@ -1,0 +1,51 @@
+2015-10-13 11:47:37 [61.135.169.85][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 61.135.169.85
+    in /home/work/webroot/lecook/backend/views/layouts/main.php:73
+    in /home/work/webroot/lecook/backend/controllers/SiteController.php:73
+2015-10-13 11:47:37 [61.135.169.85][-][-][info][application] $_GET = [
+    'r' => 'site/login'
+]
+
+$_COOKIE = [
+    '_csrf' => '248c40e099a17a759040252e75344fe7e3ea77ea9198a0a830323ccbfa8ea8f3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"08yrpabW02BN1zP6JozJ2pBG69cdmvvq\";}'
+    'PHPSESSID' => '70p9u0j7l8foiv4dm5om3e8975'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__returnUrl' => '/'
+]
+
+$_SERVER = [
+    'USER' => 'work'
+    'HOME' => '/home/work'
+    'FCGI_ROLE' => 'RESPONDER'
+    'SCRIPT_FILENAME' => '/home/work/webroot/lecook/backend/web/index.php'
+    'QUERY_STRING' => 'r=site%2Flogin'
+    'REQUEST_METHOD' => 'GET'
+    'CONTENT_TYPE' => ''
+    'CONTENT_LENGTH' => ''
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/index.php?r=site%2Flogin'
+    'DOCUMENT_URI' => '/index.php'
+    'DOCUMENT_ROOT' => '/home/work/webroot/lecook/backend/web'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_SOFTWARE' => 'nginx/1.2.0'
+    'REMOTE_ADDR' => '61.135.169.85'
+    'REMOTE_PORT' => '21651'
+    'SERVER_ADDR' => '115.29.98.25'
+    'SERVER_PORT' => '81'
+    'SERVER_NAME' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => '115.29.98.25:81'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8'
+    'HTTP_COOKIE' => '_csrf=248c40e099a17a759040252e75344fe7e3ea77ea9198a0a830323ccbfa8ea8f3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%2208yrpabW02BN1zP6JozJ2pBG69cdmvvq%22%3B%7D; PHPSESSID=70p9u0j7l8foiv4dm5om3e8975'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1444708057.2517
+    'REQUEST_TIME' => 1444708057
+]

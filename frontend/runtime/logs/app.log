@@ -1,0 +1,311 @@
+2015-10-13 11:43:29 [61.135.169.85][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 61.135.169.85
+    in /home/work/webroot/lecook/frontend/views/layouts/main.php:76
+    in /home/work/webroot/lecook/frontend/controllers/SiteController.php:75
+2015-10-13 11:43:29 [61.135.169.85][-][-][info][application] $_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'work'
+    'HOME' => '/home/work'
+    'FCGI_ROLE' => 'RESPONDER'
+    'SCRIPT_FILENAME' => '/home/work/webroot/lecook/frontend/web/index.php'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'GET'
+    'CONTENT_TYPE' => ''
+    'CONTENT_LENGTH' => ''
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/'
+    'DOCUMENT_URI' => '/index.php'
+    'DOCUMENT_ROOT' => '/home/work/webroot/lecook/frontend/web'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_SOFTWARE' => 'nginx/1.2.0'
+    'REMOTE_ADDR' => '61.135.169.85'
+    'REMOTE_PORT' => '1725'
+    'SERVER_ADDR' => '115.29.98.25'
+    'SERVER_PORT' => '80'
+    'SERVER_NAME' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => '115.29.98.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1444707809.7954
+    'REQUEST_TIME' => 1444707809
+]
+2015-10-13 11:43:31 [61.135.169.85][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 61.135.169.85
+    in /home/work/webroot/lecook/frontend/views/layouts/main.php:76
+    in /home/work/webroot/lecook/frontend/controllers/SiteController.php:75
+2015-10-13 11:43:31 [61.135.169.85][-][-][info][application] $_COOKIE = [
+    '_csrf' => '248c40e099a17a759040252e75344fe7e3ea77ea9198a0a830323ccbfa8ea8f3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"08yrpabW02BN1zP6JozJ2pBG69cdmvvq\";}'
+    'PHPSESSID' => '70p9u0j7l8foiv4dm5om3e8975'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'work'
+    'HOME' => '/home/work'
+    'FCGI_ROLE' => 'RESPONDER'
+    'SCRIPT_FILENAME' => '/home/work/webroot/lecook/frontend/web/index.php'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'GET'
+    'CONTENT_TYPE' => ''
+    'CONTENT_LENGTH' => ''
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/'
+    'DOCUMENT_URI' => '/index.php'
+    'DOCUMENT_ROOT' => '/home/work/webroot/lecook/frontend/web'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_SOFTWARE' => 'nginx/1.2.0'
+    'REMOTE_ADDR' => '61.135.169.85'
+    'REMOTE_PORT' => '4950'
+    'SERVER_ADDR' => '115.29.98.25'
+    'SERVER_PORT' => '80'
+    'SERVER_NAME' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => '115.29.98.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8'
+    'HTTP_COOKIE' => '_csrf=248c40e099a17a759040252e75344fe7e3ea77ea9198a0a830323ccbfa8ea8f3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%2208yrpabW02BN1zP6JozJ2pBG69cdmvvq%22%3B%7D; PHPSESSID=70p9u0j7l8foiv4dm5om3e8975'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1444707811.0266
+    'REQUEST_TIME' => 1444707811
+]
+2015-10-13 11:43:33 [61.135.169.85][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 61.135.169.85
+    in /home/work/webroot/lecook/frontend/views/layouts/main.php:76
+    in /home/work/webroot/lecook/frontend/controllers/SiteController.php:75
+2015-10-13 11:43:33 [61.135.169.85][-][-][info][application] $_COOKIE = [
+    '_csrf' => '248c40e099a17a759040252e75344fe7e3ea77ea9198a0a830323ccbfa8ea8f3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"08yrpabW02BN1zP6JozJ2pBG69cdmvvq\";}'
+    'PHPSESSID' => '70p9u0j7l8foiv4dm5om3e8975'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'work'
+    'HOME' => '/home/work'
+    'FCGI_ROLE' => 'RESPONDER'
+    'SCRIPT_FILENAME' => '/home/work/webroot/lecook/frontend/web/index.php'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'GET'
+    'CONTENT_TYPE' => ''
+    'CONTENT_LENGTH' => ''
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/'
+    'DOCUMENT_URI' => '/index.php'
+    'DOCUMENT_ROOT' => '/home/work/webroot/lecook/frontend/web'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_SOFTWARE' => 'nginx/1.2.0'
+    'REMOTE_ADDR' => '61.135.169.85'
+    'REMOTE_PORT' => '55894'
+    'SERVER_ADDR' => '115.29.98.25'
+    'SERVER_PORT' => '80'
+    'SERVER_NAME' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => '115.29.98.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8'
+    'HTTP_COOKIE' => '_csrf=248c40e099a17a759040252e75344fe7e3ea77ea9198a0a830323ccbfa8ea8f3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%2208yrpabW02BN1zP6JozJ2pBG69cdmvvq%22%3B%7D; PHPSESSID=70p9u0j7l8foiv4dm5om3e8975'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1444707813.3769
+    'REQUEST_TIME' => 1444707813
+]
+2015-10-13 11:43:33 [61.135.169.85][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 61.135.169.85
+    in /home/work/webroot/lecook/frontend/views/layouts/main.php:76
+    in /home/work/webroot/lecook/frontend/controllers/SiteController.php:75
+2015-10-13 11:43:33 [61.135.169.85][-][-][info][application] $_COOKIE = [
+    '_csrf' => '248c40e099a17a759040252e75344fe7e3ea77ea9198a0a830323ccbfa8ea8f3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"08yrpabW02BN1zP6JozJ2pBG69cdmvvq\";}'
+    'PHPSESSID' => '70p9u0j7l8foiv4dm5om3e8975'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'work'
+    'HOME' => '/home/work'
+    'FCGI_ROLE' => 'RESPONDER'
+    'SCRIPT_FILENAME' => '/home/work/webroot/lecook/frontend/web/index.php'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'GET'
+    'CONTENT_TYPE' => ''
+    'CONTENT_LENGTH' => ''
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/'
+    'DOCUMENT_URI' => '/index.php'
+    'DOCUMENT_ROOT' => '/home/work/webroot/lecook/frontend/web'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_SOFTWARE' => 'nginx/1.2.0'
+    'REMOTE_ADDR' => '61.135.169.85'
+    'REMOTE_PORT' => '17858'
+    'SERVER_ADDR' => '115.29.98.25'
+    'SERVER_PORT' => '80'
+    'SERVER_NAME' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => '115.29.98.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8'
+    'HTTP_COOKIE' => '_csrf=248c40e099a17a759040252e75344fe7e3ea77ea9198a0a830323ccbfa8ea8f3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%2208yrpabW02BN1zP6JozJ2pBG69cdmvvq%22%3B%7D; PHPSESSID=70p9u0j7l8foiv4dm5om3e8975'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1444707813.9186
+    'REQUEST_TIME' => 1444707813
+]
+2015-10-13 11:43:34 [61.135.169.85][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 61.135.169.85
+    in /home/work/webroot/lecook/frontend/views/layouts/main.php:76
+    in /home/work/webroot/lecook/frontend/controllers/SiteController.php:75
+2015-10-13 11:43:34 [61.135.169.85][-][-][info][application] $_COOKIE = [
+    '_csrf' => '248c40e099a17a759040252e75344fe7e3ea77ea9198a0a830323ccbfa8ea8f3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"08yrpabW02BN1zP6JozJ2pBG69cdmvvq\";}'
+    'PHPSESSID' => '70p9u0j7l8foiv4dm5om3e8975'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'work'
+    'HOME' => '/home/work'
+    'FCGI_ROLE' => 'RESPONDER'
+    'SCRIPT_FILENAME' => '/home/work/webroot/lecook/frontend/web/index.php'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'GET'
+    'CONTENT_TYPE' => ''
+    'CONTENT_LENGTH' => ''
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/'
+    'DOCUMENT_URI' => '/index.php'
+    'DOCUMENT_ROOT' => '/home/work/webroot/lecook/frontend/web'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_SOFTWARE' => 'nginx/1.2.0'
+    'REMOTE_ADDR' => '61.135.169.85'
+    'REMOTE_PORT' => '52153'
+    'SERVER_ADDR' => '115.29.98.25'
+    'SERVER_PORT' => '80'
+    'SERVER_NAME' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => '115.29.98.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8'
+    'HTTP_COOKIE' => '_csrf=248c40e099a17a759040252e75344fe7e3ea77ea9198a0a830323ccbfa8ea8f3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%2208yrpabW02BN1zP6JozJ2pBG69cdmvvq%22%3B%7D; PHPSESSID=70p9u0j7l8foiv4dm5om3e8975'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1444707814.1482
+    'REQUEST_TIME' => 1444707814
+]
+2015-10-13 12:56:18 [42.62.36.76][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 42.62.36.76
+    in /home/work/webroot/lecook/frontend/views/layouts/main.php:76
+    in /home/work/webroot/lecook/frontend/controllers/SiteController.php:75
+2015-10-13 12:56:18 [42.62.36.76][-][-][info][application] $_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'work'
+    'HOME' => '/home/work'
+    'FCGI_ROLE' => 'RESPONDER'
+    'SCRIPT_FILENAME' => '/home/work/webroot/lecook/frontend/web/index.php'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'HEAD'
+    'CONTENT_TYPE' => ''
+    'CONTENT_LENGTH' => ''
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/'
+    'DOCUMENT_URI' => '/index.php'
+    'DOCUMENT_ROOT' => '/home/work/webroot/lecook/frontend/web'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_SOFTWARE' => 'nginx/1.2.0'
+    'REMOTE_ADDR' => '42.62.36.76'
+    'REMOTE_PORT' => '52168'
+    'SERVER_ADDR' => '115.29.98.25'
+    'SERVER_PORT' => '80'
+    'SERVER_NAME' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'www.dqly.com'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0'
+    'HTTP_CONNECTION' => 'close'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1444712178.1343
+    'REQUEST_TIME' => 1444712178
+]
+2015-10-13 12:56:18 [42.62.36.76][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 42.62.36.76
+    in /home/work/webroot/lecook/frontend/views/layouts/main.php:76
+    in /home/work/webroot/lecook/frontend/controllers/SiteController.php:75
+2015-10-13 12:56:18 [42.62.36.76][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => '4m5t8f57sotmtmkj5thembl9s2'
+    '_csrf' => '4e7b32a496255cf383a96ae20bfad77d8729c9311a540111af610e44fd463608a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"cbgDIu0SKZyQb-GTua1o181cct4Te_KV\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'work'
+    'HOME' => '/home/work'
+    'FCGI_ROLE' => 'RESPONDER'
+    'SCRIPT_FILENAME' => '/home/work/webroot/lecook/frontend/web/index.php'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'GET'
+    'CONTENT_TYPE' => ''
+    'CONTENT_LENGTH' => ''
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/'
+    'DOCUMENT_URI' => '/index.php'
+    'DOCUMENT_ROOT' => '/home/work/webroot/lecook/frontend/web'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_SOFTWARE' => 'nginx/1.2.0'
+    'REMOTE_ADDR' => '42.62.36.76'
+    'REMOTE_PORT' => '52227'
+    'SERVER_ADDR' => '115.29.98.25'
+    'SERVER_PORT' => '80'
+    'SERVER_NAME' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'www.dqly.com'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0'
+    'HTTP_COOKIE' => 'PHPSESSID=4m5t8f57sotmtmkj5thembl9s2; _csrf=4e7b32a496255cf383a96ae20bfad77d8729c9311a540111af610e44fd463608a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22cbgDIu0SKZyQb-GTua1o181cct4Te_KV%22%3B%7D'
+    'HTTP_ACCEPT' => 'text/html;q=0.8, */*;q=0.5'
+    'HTTP_ACCEPT_CHARSET' => 'utf-8, gbk, gb2312, *;q=0.5'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-cn;q=0.8, *;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip'
+    'HTTP_CONNECTION' => 'close'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1444712178.2449
+    'REQUEST_TIME' => 1444712178
+]
